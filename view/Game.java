@@ -4,6 +4,7 @@
  */
 package view;
 
+import viewmodel.Controller;
 import viewmodel.Player;
 import model.GameObject;
 import java.awt.Canvas;
